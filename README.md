@@ -15,14 +15,11 @@
 - ⚛️ Building **modern web applications** — practical & scalable
 - 🎯 **Student. Builder. Relentless Learner.**
 - 🤖 Diving deep into **AI / Machine Learning** — because the future isn't going to build itself
-- 🚀 Stacking skills that **companies actually pay for**
 - 🔧 Exploring **scalable backend systems**
 - 🌍 Contributing to open source & **learning every day**
-- 📍 Based in **India**
-- 💬 Ask me about **JavaScript, HTML/CSS, or Web Development**
-- 📫 Reach me at **agam.j1255@gmail.com**
+- 🚀 Stacking skills that **companies actually pay for**
 - ⚡ Fun fact: *Every bug is just a feature waiting to be discovered!*
-
+- 📫 Reach me at **agam.j1255@gmail.com**
 <br clear="right"/>
 
 ---
@@ -80,9 +77,10 @@
 | 🏷️ Project | 📝 Description | 🛠️ Tech Stack |
 |:-----------|:--------------|:-------------|
 | 🛍️ **[Shoplux](https://github.com/Agamj12)** | Full-featured e-commerce platform with product listings, cart management & clean UI | `HTML` `CSS` `JavaScript` |
+| 🌐 **[Portfolio](https://github.com/Agamj12/Portfolio)** | Modern developer portfolio with glassmorphism UI, custom particle cursor & animated project hub — [Live ↗](https://portfolio-agam1.vercel.app) | `React` `Vite` `Tailwind CSS` `Framer Motion` |
 | 💼 **[Smart Job Portal](https://github.com/Agamj12)** | Job discovery platform to find and filter listings seamlessly | `HTML` `CSS` `JavaScript` |
 | 🌤️ **[Weather App](https://github.com/Agamj12)** | Real-time weather data app with live API — search any city instantly | `JavaScript` `Weather API` |
-| 🔮 **[Horoscope Predictor](https://github.com/Agamj12)** | Fun & interactive horoscope prediction web app | `HTML` `JavaScript` |
+
 
 </div>
 
